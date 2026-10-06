@@ -1,2 +1,2 @@
 # TEST
-A testing repo to test. And find that it don't work too well on company laptops...
+A testing repo to test. And find that it has worked
